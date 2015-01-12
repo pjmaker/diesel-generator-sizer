@@ -10,6 +10,13 @@ order to:
 * Check that your current methods are correct
 * Finally as a small haskell example
 
+## Current state
+
+Initial setup, the author is off playing on other
+things and hopes to get this up shortly. Feel
+free to email if your interested in thetopic though.
+I'll have a play this weekend.
+
 ## TODO
 
 1. Improve the diesel model.
